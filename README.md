@@ -1,7 +1,3 @@
-# treinador_analise_sent_model
-Treinador de modelo analisador de sentimento do Twitter com processamento de linguagem natural
-
-
 # Treinador de Modelo para Análise de Sentimentos do Twitter
 ## Descrição do projeto
 Treinador de modelo machine learning analisador de sentimento do Twitter com processamento de linguagem natural
